@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d-liya
-- 👀 I’m interested in building great experiences
-- 🌱 I’m currently learning Mobile development
+- 👀 I’m interested in building great products
+- 🌱 I’m currently learning Microservice architecture 
 - 💞️ I’m looking to collaborate on cool projects for web/mobile
 - 📫 How to reach me @LinkedIn - Dilum Liyanage 
 - 📱 Check out my IOS App called PASK
