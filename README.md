@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Microservice architecture 
 - 💞️ I’m looking to collaborate on cool projects for web/mobile
 - 📫 How to reach me @LinkedIn - Dilum Liyanage 
-- 📱 Check out my IOS App called PASK
+- 📱 Check out my IOS App called Pask
 
 <!---
 d-liya/d-liya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
