@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d-liya, founder @ Scholalify
 - 👀 I’m interested in building great products
-- 🌱 I’m currently learning Microservice architecture 
+- 🌱 I’m currently learning distributed systems. 
 - 💞️ I’m looking to collaborate on cool projects for web/mobile
 - 📫 How to reach me @LinkedIn - Dilum Liyanage 
 - 📱 Check out my IOS App called Pask
