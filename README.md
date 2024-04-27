@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d-liya, founder @ Scholalify
 - 👀 I’m currently working on a top secret intelligent system 🤔.
-- 🌱 I’m currently learning behavioural science.
+- 🤯 The last monday of April is not gonna be the same.
 - 📫 How to reach me @LinkedIn - Dilum Liyanage.
 
 <!---
